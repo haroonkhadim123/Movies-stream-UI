@@ -33,7 +33,7 @@ Vanilla JavaScript
 🔗 Live Demo
 
 Click here to see live site
-(https://haroonkhadim123.github.io/Movies-stream-UI/)
+https://movie-stream-ui.netlify.app/
 
 
 
